@@ -32,17 +32,20 @@
 ## Contact
 - If you have any questions or would like to learn more about the organization, please feel free to contact us.We would be happy to hear from you!
 
-## Contributors
+## Members
 
 [![Project ECE BPIT](https://img.shields.io/badge/Project-ECE%20BPIT-blueviolet?style=for-the-badge&logo=github)](https://github.com/Project-Ece-Bpit)
 
 [![Member: Nandana027](https://img.shields.io/badge/-Nandana027-orange?style=for-the-badge&logo=github)](https://github.com/Nandana027)
-[![Member: sakshi14agg](https://img.shields.io/badge/-sakshi14agg-orange?style=for-the-badge&logo=github)](https://github.com/sakshi14agg)
+[![Member: sakshi14agg](https://img.shields.io/badge/-sakshi14agg-red?style=for-the-badge&logo=github)](https://github.com/sakshi14agg)
 [![Member: Karanpahwaa](https://img.shields.io/badge/-Karanpahwaa-orange?style=for-the-badge&logo=github)](https://github.com/Karanpahwaa)
-[![Member: Kamini-19](https://img.shields.io/badge/-Kamini--19-orange?style=for-the-badge&logo=github)](https://github.com/Kamini-19)
-[![Member: AhujaBhavya](https://img.shields.io/badge/-AhujaBhavya-orange?style=for-the-badge&logo=github)](https://github.com/AhujaBhavya)
-[![Member: AdityaDixit0523](https://img.shields.io/badge/-AdityaDixit0523-orange?style=for-the-badge&logo=github)](https://github.com/AdityaDixit0523)
+[![Member: Kamini-19](https://img.shields.io/badge/-Kamini--19-red?style=for-the-badge&logo=github)](https://github.com/Kamini-19)
+[![Member: AhujaBhavya](https://img.shields.io/badge/-AhujaBhavya-yellow?style=for-the-badge&logo=github)](https://github.com/AhujaBhavya)
+[![Member: AdityaDixit0523](https://img.shields.io/badge/-AdityaDixit0523-blue?style=for-the-badge&logo=github)](https://github.com/AdityaDixit0523)
 [![Member: divanshi13](https://img.shields.io/badge/-divanshi13-orange?style=for-the-badge&logo=github)](https://github.com/divanshi13)
-[![Member: Gaurav907](https://img.shields.io/badge/-Gaurav907-orange?style=for-the-badge&logo=github)](https://github.com/Gaurav907)
-[![Member: vaibhavx42](https://img.shields.io/badge/-vaibhavx42-orange?style=for-the-badge&logo=github)](https://github.com/vaibhavx42)
+[![Member: Gaurav907](https://img.shields.io/badge/-Gaurav907-voilet?style=for-the-badge&logo=github)](https://github.com/Gaurav907)
+[![Member: vaibhavx42](https://img.shields.io/badge/-vaibhavx42-purple?style=for-the-badge&logo=github)](https://github.com/vaibhavx42)
+[![Member: Amanjyot Singh](https://img.shields.io/badge/-Amanjyot--Singh-green?style=for-the-badge&logo=github)](https://github.com/amanjyot-singh)
+[![Member: rajtilak16](https://img.shields.io/badge/-rajtilak16-black?style=for-the-badge&logo=github)](https://github.com/rajtilak16)
+
 
